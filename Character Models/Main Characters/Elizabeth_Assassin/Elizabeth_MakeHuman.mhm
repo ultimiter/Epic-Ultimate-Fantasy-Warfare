@@ -1,0 +1,42 @@
+# Written by MakeHuman 1.2.0 Beta1
+version v1.2.0
+camera 4.5 359.5 0.04617953966415632 0.8740493265041684 0.6693160438338581 1.875
+modifier head/head-rectangular 0.314000
+modifier head/head-invertedtriangular 0.489000
+modifier eyebrows/eyebrows-trans-down|up 1.000000
+modifier eyes/r-eye-bag-decr|incr 0.648000
+modifier eyes/r-eye-bag-height-decr|incr -1.000000
+modifier eyes/l-eye-bag-decr|incr 0.628000
+modifier eyes/l-eye-bag-height-decr|incr -1.000000
+modifier nose/nose-width3-decr|incr 0.554000
+modifier mouth/mouth-scale-vert-decr|incr -0.522000
+modifier mouth/mouth-lowerlip-height-decr|incr -0.586000
+modifier breast/BreastSize 0.644000
+modifier breast/BreastFirmness 1.000000
+modifier breast/breast-dist-decr|incr -0.468000
+modifier breast/breast-point-decr|incr -0.478000
+modifier breast/breast-volume-vert-down|up 1.000000
+modifier breast/nipple-point-decr|incr -0.414000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.431000
+modifier macrodetails/African 0.000000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier macrodetails-universal/Muscle 0.612000
+modifier macrodetails-universal/Weight 0.229000
+modifier macrodetails-height/Height 0.521000
+modifier macrodetails-proportions/BodyProportions 0.745000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+skeleton default_no_toes.mhskel
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose standing02.bvh
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothesHideFaces True
+skinMaterial skins/young_caucasian_female/young_caucasian_female_special_suit.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+material Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2 eyelashes01.mhmat
+material Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d teeth/materials/teeth.mhmat
+material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
+subdivide False

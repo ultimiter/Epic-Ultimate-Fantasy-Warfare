@@ -1,0 +1,2 @@
+Skin Modifications: Freckles and minor moles on face and neck, to be included in skin texturing. Need to change roughness map for where the minor moles are placed.
+Eye Texture Modification: Eyes need to be hazel (Green-Brown), so find a way to mix the Green and Light Brown textures from other eye sets.

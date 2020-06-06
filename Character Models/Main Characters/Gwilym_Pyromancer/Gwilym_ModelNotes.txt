@@ -1,0 +1,5 @@
+Skin Modification: Add freckles on face. I don't think that needs to be adjusted on the UV maps when the skin/material is modified, but make sure to do rendering checks afterward to see if it looks good.
+Hair: Ronin-ish style, "blown out," or short?
+Skin Modification: Left arm, lower segment features a tatoo. Going to need to determine location on the mapping onto the skin, and then draw it over it.
+Eye Texture Modification: Mix Bluegreen with either Blue or Green to get desired effect. Which one... that will need to be tested.
+Justice - Note to self: How do I ask Kaley discreetly to get a photo of the tatoo? Do I trust my memory, because I can't see any photographs of it. I'll figure it out... maybe...
