@@ -1,6 +1,6 @@
 # Written by MakeHuman 1.2.0 Beta1
 version v1.2.0
-camera 8.5 350.5 0.6657342398450646 0.5633712860581871 -0.3056145924047442 0.8374999999999997
+camera 356.5 1.0 0.10323982295480896 0.7395248456609925 0.9418688981013863 5.387499999999998
 modifier head/head-invertedtriangular 0.186000
 modifier head/head-scale-vert-decr|incr -0.040000
 modifier eyebrows/eyebrows-trans-down|up 0.724000
@@ -33,6 +33,7 @@ tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
 teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
 eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
 skeleton default_no_toes.mhskel
+eyebrows eyebrow009 55b3b52a-379e-426d-b320-562ed57202b3
 eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
 pose standing02.bvh
 clothes male_casualsuit02 eca0f141-c21a-4d32-9fed-66fde6559940
@@ -40,6 +41,7 @@ clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
 clothesHideFaces True
 skinMaterial skins/young_caucasian_male/young_caucasian_male.mhmat
 material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+material eyebrow009 55b3b52a-379e-426d-b320-562ed57202b3 eyebrow009.mhmat
 material Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2 eyelashes01.mhmat
 material Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d teeth/materials/teeth.mhmat
 material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
