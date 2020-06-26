@@ -1,1 +1,2 @@
 Black Hair Streak: Going from center outside to right hand side of face
+Clothing Notes: Top Half will be a blackened version of "Fabric_001_SD," while the bottom half with be a blackend version of "worn-blue-burlap-bl." Use GIMP to change the gamma values for each main texture file to achieve desired affect; keep all roughness, diffusion, and occulsion maps.
