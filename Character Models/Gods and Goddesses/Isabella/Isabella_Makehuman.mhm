@@ -1,0 +1,63 @@
+# Written by MakeHuman 1.2.0 beta2
+version v1.2.0
+camera 0.0 0.0 -0.004097276645039164 0.7820131602951134 -0.41146545017141595 1.3249999999999997
+modifier head/head-invertedtriangular 0.410000
+modifier neck/neck-scale-vert-decr|incr 0.106000
+modifier neck/neck-back-scale-depth-decr|incr -0.212000
+modifier eyes/r-eye-bag-decr|incr 1.000000
+modifier eyes/r-eye-bag-in|out -1.000000
+modifier eyes/r-eye-bag-height-decr|incr -0.638000
+modifier eyes/r-eye-eyefold-concave|convex 0.320000
+modifier eyes/r-eye-eyefold-down|up 0.702000
+modifier eyes/r-eye-height3-decr|incr -0.564000
+modifier eyes/r-eye-corner1-down|up 0.478000
+modifier eyes/l-eye-bag-decr|incr 1.000000
+modifier eyes/l-eye-bag-in|out -1.000000
+modifier eyes/l-eye-bag-height-decr|incr -0.638000
+modifier eyes/l-eye-eyefold-concave|convex 0.340000
+modifier eyes/l-eye-eyefold-down|up 0.702000
+modifier eyes/l-eye-height3-decr|incr -0.554000
+modifier eyes/l-eye-corner1-down|up 0.478000
+modifier nose/nose-scale-horiz-decr|incr 0.756000
+modifier nose/nose-scale-depth-decr|incr 0.096000
+modifier nose/nose-point-width-decr|incr 0.458000
+modifier nose/nose-width1-decr|incr -0.904000
+modifier nose/nose-width3-decr|incr 0.106000
+modifier nose/nose-volume-decr|incr 0.266000
+modifier nose/nose-nostrils-angle-down|up 0.532000
+modifier nose/nose-septumangle-decr|incr 0.532000
+modifier chin/chin-width-decr|incr -0.180000
+modifier chin/chin-bones-decr|incr 0.382000
+modifier stomach/stomach-tone-decr|incr 1.000000
+modifier buttocks/buttocks-volume-decr|incr 0.234000
+modifier breast/BreastSize 0.612000
+modifier breast/BreastFirmness 0.926000
+modifier breast/breast-trans-down|up 0.478000
+modifier breast/breast-volume-vert-down|up 0.308000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.415000
+modifier macrodetails/African 0.000000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier macrodetails-universal/Muscle 0.814000
+modifier macrodetails-universal/Weight 0.670000
+modifier macrodetails-height/Height 0.548000
+modifier macrodetails-proportions/BodyProportions 0.500000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+skeleton default_no_toes.mhskel
+eyebrows eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose standing02.bvh
+clothes female_casualsuit02 9896f4a4-a718-4bdd-8482-52e1855160f6
+clothes female_sportsuit01 e38d3a5b-718f-41d5-8404-299def30b43f
+clothes shoes05 8ef14ff4-8547-419c-a495-17bab919568b
+clothesHideFaces False
+skinMaterial skins/young_caucasian_female/young_caucasian_female2.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+material eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084 eyebrow001.mhmat
+material Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2 eyelashes01.mhmat
+material Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d teeth/materials/teeth.mhmat
+material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
+subdivide False

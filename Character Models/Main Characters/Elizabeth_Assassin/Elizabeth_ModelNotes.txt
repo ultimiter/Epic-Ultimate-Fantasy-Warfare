@@ -1,1 +1,1 @@
-Skin Topologies: Eliminate current hairline in base materials and images, while also detailing specific parts with metallic and rusting components
+Skin Topologies: Detail specific parts with metallic and rusting components
